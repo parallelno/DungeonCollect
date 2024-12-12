@@ -14,11 +14,10 @@ In Dungeon Collect, you embark on a thrilling quest to find the Three Crystals. 
 ---
 
 ## 📷 Screenshot  
-![Dungeon Collect Screenshot](Screenshots/Screenshot01.png "Dungeon Collect Intro")
-![Dungeon Collect Screenshot](Screenshots/Screenshot02.png "Dungeon Collect Gameplay")
-![Dungeon Collect Screenshot](Screenshots/Screenshot03.png "Dungeon Collect Gameplay")
 ![Dungeon Collect Screenshot](Screenshots/Screenshot04.png "Dungeon Collect Game Over")
-
+![Dungeon Collect Screenshot](Screenshots/Screenshot03.png "Dungeon Collect Gameplay")
+![Dungeon Collect Screenshot](Screenshots/Screenshot02.png "Dungeon Collect Gameplay")
+![Dungeon Collect Screenshot](Screenshots/Screenshot01.png "Dungeon Collect Intro")
 ---
 
 ## ❤️ A Family Project  
