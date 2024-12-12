@@ -1,0 +1,68 @@
+do not forgot first "Enter" symbol at the start of every message
+
+--game settings-----------------------------------------------------------------------
+This's a birthday gift for my son Ilia! I love you, my genius angel!
+I need a good word from Peter!
+
+--honeDoor-----------------------------------------------------------------------
+Oh no!/
+The door got closed and I forgot my keys inside!/
+The only way to get back home is to collect three crystals, 
+and combine them to make a teleport! Let's go!
+
+--key-----------------------------------------------------------------------
+
+Oh! It is a key from the castle that I've seen before!
+
+--teller castle-----------------------------------------------------------------------
+Thank you so much, hero! 
+I was in that prison for many years.
+Now I can reunion with my family!/
+I have a health potion for you. Check under the crate.
+
+--teller cave2-----------------------------------------------------------------------
+Thank you so much, our savior! 
+You defeated the monster in the cave./ 
+My village gives you a crystal for your service!
+
+--planes2Lever-----------------------------------------------------------------------
+I am hearing that some mechanism is working.
+
+I used it already. I guess some door opened now. 
+I need to search it.
+
+--health potion-----------------------------------------------------------------------
+Amazing!
+I found a health potion!
+Now I'm stronger!
+
+--damage potion-----------------------------------------------------------------------
+Oh! What's a piece of luck!
+I found a damage potion!
+Now my sword is sharper!
+
+--crystal1-----------------------------------------------------------------------
+I found the first crystal!/
+There are two more crystals left!
+Let's go!
+
+
+I found all of the crystals!/
+Let's go home!
+
+--crystal2-----------------------------------------------------------------------
+I found the second crystal!/
+There is just one crystal left!
+Let's go!
+
+
+I found all of the crystals!/
+Let's go home!
+
+--crystal3-----------------------------------------------------------------------
+I found the last crystal!/
+There is no more crystals left!
+
+
+I found all of the crystals!/
+Let's go home!
